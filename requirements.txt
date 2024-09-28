@@ -1,0 +1,3 @@
+PyTumblr2==0.2.4
+pyyaml==6.0.1
+
